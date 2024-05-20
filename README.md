@@ -1,2 +1,2 @@
 # ArchWSL1
-Instruction to deploy Arch Linux on WSL1 Platform.
+Instructions to deploy Arch Linux on WSL1 Platform.
